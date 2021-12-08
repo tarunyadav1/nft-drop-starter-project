@@ -1,0 +1,19 @@
+{
+  "name": "Astro Uni",
+  "symbol": "Tarun",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FcG74w7spyqLd8kx88BtxriY3qhXfMZuNVgHdtN6ki1t",
+        "share": 100
+      }
+    ]
+  }
+}
